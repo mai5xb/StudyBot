@@ -1,0 +1,6 @@
+User: what is a list?
+SodaBot: A list stores multiple items. Example: fruits = ['apple', 'banana']
+User: what is debugging?
+SodaBot: Finding and fixing errors in your code.
+User: how is the weather today?
+SodaBot: Sorry, SodaBot doesn't have an answer for that. Try typing 'faq' to see available questions.

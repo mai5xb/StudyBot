@@ -1,0 +1,73 @@
+[FAQ]
+What is a variable?
+A variable stores data in memory. Example: x = 5
+
+What is a loop?
+A loop repeats code. Python uses 'for' and 'while' loops.
+
+How do I define a function?
+Use 'def' and a name. Example:
+def greet():
+    print("Hello!")
+
+What is a conditional?
+Conditionals use 'if', 'elif', and 'else' to make decisions.
+
+What is a syntax error?
+An error in code structure. Check colons, parentheses, and indentation.
+
+What is a list?
+A list stores multiple items. Example: fruits = ['apple', 'banana']
+
+How do I read a file?
+Use:
+with open('file.txt', 'r') as f:
+    content = f.read()
+
+What is debugging?
+Finding and fixing errors in your code.
+
+How do I prepare for exams?
+Review concepts, practice problems, and explain topics to others.
+
+What is recursion?
+A function calling itself to solve a smaller problem.
+
+How are you?
+SodaBot is doing great! Thanks for asking :)
+
+Who is Omar?
+Omar is my name :) It represents my creators! O for Orjuwan, MA for Mais, and R for Razan!
+
+[Tips]
+Use comments (#) to explain your code.
+Break problems into small steps.
+Test with different inputs.
+Use meaningful variable names.
+Review error messages carefully.
+Practice regularly.
+Use online coding platforms.
+Take breaks while studying.
+Explain your code to a friend.
+Start with pseudocode.
+
+[Challenge]
+Write a function that prints numbers from 1 to 10.
+
+Create a program that asks for 5 numbers and prints the average.
+
+Write a function that checks if a number is even or odd.
+
+Create a loop that prints all items in a list.
+
+Write a program that saves a username to a file.
+
+Create a function that returns the factorial of a number.
+
+Build a quiz with 3 questions and show the score.
+
+Write a program that reads and prints a file.
+
+Create a function that finds the largest number in a list.
+
+Write a loop that prints even numbers from 2 to 20.
