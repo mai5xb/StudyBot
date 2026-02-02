@@ -36,9 +36,6 @@ A function calling itself to solve a smaller problem.
 How are you?
 SodaBot is doing great! Thanks for asking :)
 
-Who is Omar?
-Omar is my name :) It represents my creators! O for Orjuwan, MA for Mais, and R for Razan!
-
 [Tips]
 Use comments (#) to explain your code.
 Break problems into small steps.
@@ -69,5 +66,6 @@ Build a quiz with 3 questions and show the score.
 Write a program that reads and prints a file.
 
 Create a function that finds the largest number in a list.
+
 
 Write a loop that prints even numbers from 2 to 20.
